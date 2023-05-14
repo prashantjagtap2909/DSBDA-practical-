@@ -12,5 +12,5 @@
 
 
 # [Mini Projects]()
- - [Covid Vaccine]()
- - [Movie Recommendation System]()
+ - [Covid Vaccine](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Mini%20projects/Covid-Vaccine.ipynb)
+ - [Movie Recommendation System](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Mini%20projects/MovieRecommendation.ipynb)
