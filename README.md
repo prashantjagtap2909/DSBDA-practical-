@@ -9,3 +9,8 @@
   - [Assignment 7](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Assignments/Assignment7.ipynb)
   - [Assignment 8](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Assignments/Assignment8.ipynb)
   - [Assignment 9](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Assignments/Assignment9.ipynb)
+
+
+# [Mini Projects]()
+ - [Covid Vaccine]()
+ - [Movie Recommendation System]()
