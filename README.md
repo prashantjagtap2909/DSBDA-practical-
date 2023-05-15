@@ -1,4 +1,4 @@
-# [DSBDA-practical]()
+# [DSBDA-practicals]()
 
   - [Assignment 1](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Assignments/Assignment1.ipynb)
   - [Assignment 2](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Assignments/Assignment2.ipynb)
