@@ -9,6 +9,7 @@
   - [Assignment 7](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Assignments/Assignment7.ipynb)
   - [Assignment 8](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Assignments/Assignment8.ipynb)
   - [Assignment 9](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Assignments/Assignment9.ipynb)
+  - [Assignment 10](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Assignments/Assignment%2010.ipynb)
 
 
 # [Mini Projects]()
