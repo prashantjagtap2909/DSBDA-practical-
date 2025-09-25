@@ -15,3 +15,6 @@
 # [Mini Projects]()
  - [Covid Vaccine](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Mini%20projects/Covid-Vaccine.ipynb)
  - [Movie Recommendation System](https://github.com/prashantjagtap2909/DSBDA-practical-/blob/main/Mini%20projects/MovieRecommendation.ipynb)
+
+
+Join this platform for tech, cs and project related discussion - [QuillCircuit.com](https://www.quillcircuit.com/)
